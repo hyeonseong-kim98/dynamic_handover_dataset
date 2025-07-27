@@ -1,0 +1,10 @@
+<mujoco model="ur5e scene">
+  <option noslip_iterations="100">
+
+  </option>
+  <!-- UR5e -->
+  <include file="./ur5e_rg2_handover.xml" />
+  <include file="../object/base_table.xml" />
+  <include file="./floor_isaac_style.xml" />
+</mujoco>
+ 
