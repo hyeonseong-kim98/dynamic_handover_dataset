@@ -2,7 +2,7 @@
 
 This repository provides the **Dynamic Robot-to-Human Handover Dataset**, collected for research in dynamic object handover between robots and humans. The dataset is introduced in the following paper:
 
-📄 **[Learning-based Dynamic Robot-to-Human Handover (ArXiv 2024)](https://arxiv.org/abs/2502.12602)**
+  📄 **[Learning-based Dynamic Robot-to-Human Handover (ICRA 2025)](https://arxiv.org/abs/2502.12602)**
 
 ---
 
@@ -27,7 +27,8 @@ We provide motion visualization using the **MuJoCo simulator**. You can find the
 
 We **strongly recommend** running the visualization demo to understand the data structure and motion patterns.
 
-
+![demo_h2h_motion_player.ipynb](h2h.gif)
+![demo_r2h_motion_player.ipynb](r2h.gif)
 
 
 ### Install Dependencies To Run Visualization Code
